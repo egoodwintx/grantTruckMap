@@ -1,0 +1,140 @@
+"Vehicle Position History List",,,,,,,,
+,,,,,,,,
+Selection Criteria:,,,,,,,,
+,,,,,,,,
+Vehicle ID: 1022534,,,,,,,,
+From Date: 07/22/14 00:00:00  CDT,,,,,,,,
+To Date: 07/29/14 23:59:59  CDT,,,,,,,,
+Granularity (minutes): 60,,,,,,,,
+,,,,,,,,
+Position Time,Location,Ignition Status,Position Latitude,Position Longitude,Speed,Direction,Trip Status,Odometer
+07/29/14 16:42:54  CDT,".95 miles N of Exxon Mobil - North in Houston, TX",On,29.9012,-95.41245,56,South,In,138480
+07/29/14 15:41:37  CDT,"4.80 miles NNE of Lloyd Yard in Spring, TX",On,30.13962,-95.38194,0,Southwest,Out,138458.7
+07/29/14 14:38:34  CDT,"9.24 miles N of Lloyd Yard in Spring, TX",On,30.20787,-95.43361,0,East,Unknown,138445.9
+07/29/14 13:38:32  CDT,"At Noble Energy in Houston, TX",On,29.94838,-95.41722,0,East,Unknown,138425.2
+07/29/14 12:36:19  CDT,".66 miles W of Conroe, TX",On,30.28041,-95.4693,58,East,Unknown,138401.1
+07/29/14 11:35:08  CDT,"3.76 miles ESE of Montgomery, TX",On,30.37055,-95.62745,0,Northeast,Unknown,138386.5
+07/29/14 10:31:56  CDT,".38 miles E of Conroe, TX",On,30.2824,-95.43523,33,West,Unknown,138370.9
+07/29/14 09:27:06  CDT,"5.62 miles NNW of Lloyd Yard in Spring, TX",On,30.15407,-95.43745,0,Southeast,Out,138357.3
+07/29/14 08:27:03  CDT,".35 miles SSE of Noble Energy in Houston, TX",On,29.94185,-95.41365,43,Northwest,In,138341.8
+07/29/14 07:26:44  CDT,"At Kinder Morgan Pasadena Tx in Pasadena, TX",Off,29.71768,-95.18342,0,Southeast,Out,138309.5
+07/29/14 06:24:48  CDT,"At Kinder Morgan Pasadena Tx in Pasadena, TX",On,29.71796,-95.1837,0,South,Unknown,138309.5
+07/28/14 23:44:35  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30504,0,North,Out,138294.8
+07/28/14 22:44:25  CDT,"At SCRI - Houston in Houston, TX",Off,29.8024,-95.30504,0,North,Out,138294.8
+07/28/14 21:29:33  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30499,0,South,Out,138294.8
+07/28/14 20:29:31  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30504,0,South,Out,138294.8
+07/28/14 19:29:20  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30499,0,South,Out,138294.8
+07/28/14 18:29:18  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30499,0,South,Out,138294.8
+07/28/14 17:29:16  CDT,"9.12 miles ENE of Lloyd Yard in Spring, TX",On,30.11236,-95.26527,21,Southeast,In,138268.9
+07/28/14 16:29:15  CDT,"1.17 miles SSE of Cut And Shoot, TX",On,30.3368,-95.41458,0,South,Out,138248.5
+07/28/14 15:26:55  CDT,"1.19 miles WNW of Lloyd Yard in Spring, TX",On,30.07388,-95.43569,54,North,Unknown,138227.2
+07/28/14 14:26:53  CDT,".15 miles SE of Noble Energy in Houston, TX",On,29.94467,-95.41458,0,Southeast,Unknown,138218.1
+07/28/14 13:22:39  CDT,"1.96 miles W of Noble Energy in Houston, TX",On,29.94652,-95.45083,0,South,Unknown,138214.6
+07/28/14 12:21:17  CDT,"2.65 miles NNW of Conroe, TX",On,30.32324,-95.47444,69,Southeast,Unknown,138184.2
+07/28/14 11:18:25  CDT,"3.89 miles WSW of Cut And Shoot, TX",On,30.34328,-95.50037,50,South,Unknown,138171.6
+07/28/14 10:14:52  CDT,"2.25 miles SSE of Cut And Shoot, TX",On,30.31921,-95.41717,0,Northwest,Unknown,138160.6
+07/28/14 09:13:38  CDT,"9.68 miles WNW of Lloyd Yard in Spring, TX",On,30.13949,-95.55944,0,West,Out,138139.3
+07/28/14 08:13:35  CDT,"6.18 miles W of Lloyd Yard in Spring, TX",On,30.07499,-95.51925,0,West,Out,138129.5
+07/28/14 07:13:32  CDT,"2.34 miles ESE of Noble Energy in Houston, TX",On,29.93898,-95.37828,53,West,In,138112.6
+07/28/14 06:13:32  CDT,"At Kinder Morgan Pasadena Tx in Pasadena, TX",On,29.71759,-95.18291,9,North,Unknown,138082
+07/27/14 18:24:44  CDT,"At SCRI - Houston in Houston, TX",On,29.8024,-95.30435,0,North,Out,138067.3
+07/27/14 17:10:59  CDT,"At SCRI - Houston in Houston, TX",Off,29.80245,-95.30435,0,North,Out,138067.3
+07/27/14 16:10:51  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30439,0,South,Out,138067.3
+07/27/14 15:10:50  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30439,0,South,Out,138067.3
+07/27/14 14:10:48  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30439,0,South,Out,138067.3
+07/27/14 13:04:57  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30439,0,South,Out,138067.3
+07/27/14 12:03:24  CDT,"At SCRI - Houston in Houston, TX",Off,29.80226,-95.30435,0,South,Out,138066.7
+07/27/14 11:01:56  CDT,"At SCRI - Houston in Houston, TX",On,29.80226,-95.30523,0,South,Unknown,138063.2
+07/26/14 21:06:34  CDT,"At SCRI - Houston in Houston, TX",Off,29.80226,-95.30416,0,South,Out,138061
+07/26/14 20:05:17  CDT,"At SCRI - Houston in Houston, TX",Off,29.80231,-95.30416,0,South,Out,138061
+07/26/14 18:51:30  CDT,"At SCRI - Houston in Houston, TX",Off,29.80231,-95.30412,0,South,Out,138061
+07/26/14 17:36:07  CDT,"At SCRI - Houston in Houston, TX",Off,29.80231,-95.30416,0,South,Out,138061
+07/26/14 16:36:07  CDT,"At SCRI - Houston in Houston, TX",Off,29.80231,-95.30412,0,South,Out,138061
+07/26/14 15:34:51  CDT,"At SCRI - Houston in Houston, TX",Off,29.80231,-95.30407,0,South,Out,138061
+07/26/14 14:21:24  CDT,"At Pac Lease - Houston in Houston, TX",Off,29.80773,-95.30541,0,Southwest,Out,138060
+07/26/14 13:21:12  CDT,"At Pac Lease - Houston in Houston, TX",Off,29.80773,-95.30541,0,Southwest,Out,138060
+07/26/14 12:20:31  CDT,"At Pac Lease - Houston in Houston, TX",Off,29.80777,-95.3055,0,Southwest,Out,138060
+07/26/14 11:14:10  CDT,"At Pac Lease - Houston in Houston, TX",Off,29.80749,-95.3049,0,West,Out,138059.7
+07/26/14 10:12:29  CDT,"At Pac Lease - Houston in Houston, TX",Off,29.80777,-95.30541,0,South,Out,138059.5
+07/26/14 09:06:15  CDT,"At SCRI - Houston in Houston, TX",Off,29.80226,-95.30481,0,North,Out,138058.8
+07/26/14 08:06:13  CDT,"At SCRI - Houston in Houston, TX",Off,29.80231,-95.30486,0,North,Out,138058.8
+07/26/14 07:05:57  CDT,"At SCRI - Houston in Houston, TX",Off,29.80222,-95.30481,0,South,Out,138058.8
+07/26/14 06:05:54  CDT,"At SCRI - Houston in Houston, TX",On,29.80222,-95.30532,0,South,Out,138057.7
+07/26/14 05:05:43  CDT,"At SCRI - Houston in Houston, TX",Off,29.80226,-95.30537,0,South,Out,138057.7
+07/26/14 04:04:32  CDT,"At SCRI - Houston in Houston, TX",On,29.80231,-95.30527,7,South,Unknown,138057.7
+07/26/14 03:04:30  CDT,".12 miles NNE of SO Pac Yard La Porte in La Porte, TX",On,29.68805,-95.03513,63,West,Unknown,138033.8
+07/26/14 02:03:47  CDT,"2.58 miles E of SO Pac Yard La Porte in La Porte, TX",On,29.67828,-94.99416,0,Northeast,Unknown,138029.9
+07/26/14 01:02:16  CDT,".86 miles ESE of SO Pac Yard La Porte in La Porte, TX",On,29.67356,-95.02375,0,North,Unknown,138028
+07/26/14 00:00:34  CDT,".86 miles ESE of SO Pac Yard La Porte in La Porte, TX",On,29.67328,-95.02379,0,South,Unknown,138027.9
+07/25/14 22:58:42  CDT,"1.28 miles ENE of Tshuck in Houston, TX",On,29.70324,-95.32703,0,South,Unknown,138005.1
+07/25/14 21:57:01  CDT,"1.28 miles ENE of Tshuck in Houston, TX",On,29.70319,-95.32708,0,Southwest,Unknown,138004.9
+07/25/14 20:56:30  CDT,"1.27 miles ENE of Tshuck in Houston, TX",On,29.70217,-95.32666,0,Northeast,Unknown,138004.6
+07/25/14 19:55:18  CDT,"1.26 miles ENE of Tshuck in Houston, TX",On,29.70236,-95.32689,0,West,Unknown,138004.5
+07/25/14 18:51:47  CDT,"1.29 miles ENE of Tshuck in Houston, TX",On,29.70287,-95.32666,0,South,Unknown,138004.4
+07/25/14 17:51:45  CDT,"1.45 miles NE of Tshuck in Houston, TX",On,29.7055,-95.32541,11,South,Unknown,138004.2
+07/25/14 16:51:34  CDT,"4.00 miles SW of Motiva Pasadena Tx in Pasadena, TX",On,29.6643,-95.26328,42,South,Unknown,137993.8
+07/25/14 15:50:26  CDT,"1.26 miles SE of Magellen East Houston in Houston, TX",On,29.7868,-95.26587,61,Southeast,In,137972.9
+07/25/14 14:44:45  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.3049,0,South,Out,137969.1
+07/25/14 13:42:34  CDT,".74 miles N of Teppco - North Houston in Houston, TX",On,29.98986,-95.39088,0,West,Unknown,137945.7
+07/25/14 12:42:32  CDT,"2.15 miles SSE of Lloyd Yard in Spring, TX",On,30.01504,-95.39027,0,South,Unknown,137941.4
+07/25/14 11:41:20  CDT,"7.88 miles NNW of Lloyd Yard in Spring, TX",On,30.18662,-95.44282,0,Northeast,Unknown,137926
+07/25/14 10:40:48  CDT,"6.75 miles WSW of Conroe, TX",On,30.22555,-95.55185,0,North,Unknown,137915.6
+07/25/14 09:40:17  CDT,"2.58 miles SSE of Cut And Shoot, TX",On,30.31638,-95.40912,4,North,Unknown,137901
+07/25/14 08:37:15  CDT,"4.88 miles NNW of Settegast (Mopac) in Houston, TX",On,29.89532,-95.31523,68,North,Unknown,137864.3
+07/25/14 07:34:43  CDT,"At Kinder Morgan Pasadena Tx in Pasadena, TX",On,29.71782,-95.18374,0,South,Out,137842.2
+07/25/14 06:34:39  CDT,"2.47 miles WNW of Motiva Pasadena Tx in Pasadena, TX",On,29.7224,-95.26629,58,South,In,137835.7
+07/24/14 23:12:23  CDT,"At SCRI - Houston in Houston, TX",On,29.8024,-95.30486,0,North,Out,137827.3
+07/24/14 22:06:09  CDT,"At SCRI - Houston in Houston, TX",Off,29.8024,-95.30486,0,North,Out,137827.3
+07/24/14 20:57:36  CDT,"At SCRI - Houston in Houston, TX",Off,29.8024,-95.30481,0,North,Out,137827.3
+07/24/14 19:57:35  CDT,"At SCRI - Houston in Houston, TX",Off,29.8024,-95.30486,0,North,Out,137827.3
+07/24/14 18:57:34  CDT,"At SCRI - Houston in Houston, TX",Off,29.8024,-95.30481,0,North,Out,137827.3
+07/24/14 17:42:39  CDT,"At SCRI - Houston in Houston, TX",Off,29.80245,-95.30486,0,South,Out,137827.3
+07/24/14 16:42:21  CDT,"8.40 miles E of Teppco - North Houston in Houston, TX",On,29.9681,-95.24902,0,East,Out,137809.6
+07/24/14 15:40:54  CDT,"4.02 miles SE of Teppco - North Houston in Houston, TX",On,29.93504,-95.34412,0,West,Out,137799.8
+07/24/14 14:38:03  CDT,"4.30 miles SE of Teppco - North Houston in Houston, TX",On,29.93106,-95.34222,0,Northwest,Unknown,137795
+07/24/14 13:33:10  CDT,"At Noble Energy in Houston, TX",On,29.94782,-95.41791,0,North,Unknown,137789.4
+07/24/14 12:32:38  CDT,"2.24 miles SSE of Cut And Shoot, TX",On,30.31939,-95.41675,0,North,Unknown,137759.9
+07/24/14 11:32:36  CDT,"2.88 miles NE of Cut And Shoot, TX",On,30.39722,-95.39504,45,Northeast,Unknown,137745.5
+07/24/14 10:31:34  CDT,"At Willis, TX",On,30.42088,-95.48634,0,Southwest,Unknown,137738.8
+07/24/14 09:29:49  CDT,"7.17 miles ESE of Montgomery, TX",On,30.32962,-95.58662,0,East,Out,137724.5
+07/24/14 08:29:46  CDT,"1.36 miles NNE of ALG-Houston in Houston, TX",On,29.81416,-95.35662,62,West,In,137675.8
+07/24/14 07:29:40  CDT,"At Kinder Morgan Pasadena Tx in Pasadena, TX",On,29.71796,-95.18379,0,South,Out,137658.7
+07/24/14 06:29:33  CDT,"At Pac Lease - Houston in Houston, TX",On,29.80745,-95.30541,0,Southeast,Out,137643.5
+07/24/14 05:27:29  CDT,"At SCRI - Houston in Houston, TX",On,29.80236,-95.30486,0,North,Out,137643
+07/23/14 22:47:19  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30486,0,South,Out,137643
+07/23/14 21:35:00  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30486,0,South,Out,137643
+07/23/14 20:32:15  CDT,"At SCRI - Houston in Houston, TX",Off,29.8024,-95.30486,0,South,Out,137643
+07/23/14 19:32:03  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30486,0,South,Out,137643
+07/23/14 18:17:11  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30486,0,South,Out,137643
+07/23/14 17:09:07  CDT,"At SCRI - Houston in Houston, TX",Off,29.8024,-95.30486,0,South,Out,137643
+07/23/14 16:06:33  CDT,"4.60 miles W of New Caney, TX",On,30.20115,-95.31013,0,North,Unknown,137609.2
+07/23/14 15:03:41  CDT,"2.19 miles WSW of Grangerland, TX",On,30.22981,-95.45527,0,South,Unknown,137595.5
+07/23/14 14:01:59  CDT,"6.17 miles NW of Lloyd Yard in Spring, TX",On,30.12217,-95.50333,0,Southwest,Unknown,137585.3
+07/23/14 13:01:35  CDT,"At Noble Energy in Houston, TX",Off,29.94708,-95.41796,0,North,Out,137567.3
+07/23/14 12:01:32  CDT,"1.32 miles SW of Lloyd Yard in Spring, TX",On,30.03958,-95.42967,63,South,In,137560.6
+07/23/14 11:01:31  CDT,"4.96 miles NW of Lloyd Yard in Spring, TX",On,30.12634,-95.47379,0,West,Out,137552.6
+07/23/14 10:01:29  CDT,"5.36 miles SW of Willis, TX",On,30.36254,-95.5468,0,Southeast,Out,137528
+07/23/14 09:01:27  CDT,"4.70 miles SW of Willis, TX",On,30.3705,-95.54027,0,Northeast,Out,137523.9
+07/23/14 08:01:24  CDT,"At Noble Energy in Houston, TX",On,29.94837,-95.41726,0,Northeast,Out,137488.7
+07/23/14 07:01:07  CDT,"At Noble Energy in Houston, TX",On,29.94833,-95.41773,0,East,Out,137488.7
+07/23/14 05:58:45  CDT,"At SCRI - Houston in Houston, TX",On,29.80199,-95.30365,0,Northwest,Out,0
+07/22/14 23:30:13  CDT,"At SCRI - Houston in Houston, TX",On,29.80236,-95.30481,0,South,Out,137467.8
+07/22/14 22:20:35  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30481,0,South,Out,137467.8
+07/22/14 21:20:34  CDT,"At SCRI - Houston in Houston, TX",Off,29.80236,-95.30481,0,South,Out,137467.8
+07/22/14 20:19:54  CDT,"At SCRI - Houston in Houston, TX",Off,29.8024,-95.30486,0,South,Out,137467.8
+07/22/14 19:05:56  CDT,"At SCRI - Houston in Houston, TX",Off,29.8024,-95.30481,0,South,Out,137467.8
+07/22/14 17:55:14  CDT,"At SCRI - Houston in Houston, TX",Off,29.8024,-95.30481,0,South,Out,137467.8
+07/22/14 16:50:51  CDT,"3.11 miles ESE of Grangerland, TX",On,30.21314,-95.35796,0,South,In,137432.3
+07/22/14 15:50:40  CDT,"7.12 miles W of Conroe, TX",On,30.28481,-95.57777,0,East,Out,137410
+07/22/14 14:46:22  CDT,"6.52 miles SW of Conroe, TX",On,30.22444,-95.54638,46,West,Unknown,137403.8
+07/22/14 13:43:27  CDT,"9.21 miles N of Lloyd Yard in Spring, TX",On,30.20768,-95.43134,0,West,Unknown,137393.7
+07/22/14 12:38:30  CDT,"At Noble Energy in Houston, TX",Off,29.94837,-95.41754,0,East,Out,137372.7
+07/22/14 11:35:37  CDT,"At Noble Energy in Houston, TX",On,29.94833,-95.41768,0,East,Out,137372.6
+07/22/14 10:35:28  CDT,"4.90 miles NW of Lloyd Yard in Spring, TX",On,30.12629,-95.47222,3,East,Out,137357.9
+07/22/14 09:35:25  CDT,"4.93 miles NW of Lloyd Yard in Spring, TX",On,30.12907,-95.46962,0,Northwest,Out,137357.1
+07/22/14 08:35:23  CDT,"3.33 miles N of Lloyd Yard in Spring, TX",On,30.12314,-95.40476,13,West,In,137349.3
+07/22/14 07:35:12  CDT,"6.39 miles SE of Teppco - North Houston in Houston, TX",On,29.92509,-95.30208,52,North,In,137325.8
+07/22/14 06:25:12  CDT,"At Kinder Morgan Pasadena Tx in Pasadena, TX",On,29.71782,-95.1837,0,South,Unknown,137301.4
+07/22/14 05:22:16  CDT,"At SCRI - Houston in Houston, TX",On,29.80236,-95.30481,0,North,Unknown,137286.6
+,,,,,,,,
+** END OF REPORT **,,,,,,,,
