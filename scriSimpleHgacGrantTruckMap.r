@@ -15,6 +15,7 @@
 # scriHgacGrantTruckMap.r BEGIN CODE
 library(ggplot2)
 library(ggmap)
+library(ggthemes)
 library(rgdal)
 library(maptools)
 library(dplyr)
@@ -45,18 +46,17 @@ vehpos = read.csv("../../scriHgacGrantTruckMap/data/veh_pos.csv", header=T, skip
 names(vehpos) = c("Time", "Location", "Ignition.Status", "Latitude", "Longitude", "Speed", "Direction", "Trip.Status", "Odometer")
 
 ## create Unit plot
-ppoints = c(geom_point(data=vehpos, aes(x=Longitude, y=Latitude), colour="red", size=2, alpha=0.2))
+ppoints = c(geom_point(data=vehpos, aes(x=Longitude, y=Latitude), colour="yellow", size=2, alpha=0.4))
 
 
 p = ggplot() +
   geom_polygon(data=plotData, aes(x=long, y=lat, group=group, fill=fillval), color="black", size=0.25) +
-  ppoints + quiet() +
-  ggtitle("HGAC Grant Operating Area")
+  # take care of shape distortion
+  coord_map() +
+  # eliminates background, gridlines, tick lines, axis titles, legend and chart border
+  theme_nothing(legend=TRUE) +
+  labs(title="HGAC Grant Truck Operating Activity", fill="") +
+  theme(plot.title = element_text(size = rel(2))) +
+  ppoints + 
+  scale_fill_distiller(palette="Greens")
 p
-
-#
-# # print out Texas counties
-# if(require(maps)) {
-#   tx = map_data("county", "texas")
-#   qplot(long, lat, data=tx, geom="polygon", group=group, colour=I("black"), fill=I("white"))
-# }
