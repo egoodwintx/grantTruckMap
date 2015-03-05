@@ -86,4 +86,4 @@ p = ggplot() +
 p
 
 ## are vehicles in county area?
-proj4string(vehpos) = proj4string(plotData)
+# proj4string(vehpos) = proj4string(plotData)
