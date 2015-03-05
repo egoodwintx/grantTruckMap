@@ -42,12 +42,36 @@ fillcounties[fillcounties$id %in% grantcounties, ]$fillval = 1
 plotData = left_join(texas, fillcounties)
 
 ## read in vehicle position data
-vehpos = read.csv("../../scriHgacGrantTruckMap/data/veh_pos.csv", header=T, skip=9)
-names(vehpos) = c("Time", "Location", "Ignition.Status", "Latitude", "Longitude", "Speed", "Direction", "Trip.Status", "Odometer")
+vehnum = c(70089, 70090, 70091, 70092, 70093)
+
+## reads in vehicle data for one unit at a time
+readvehdat = function(unit) {
+  filestr = paste0("../../scriHgacGrantTruckMap/data/Vehicle_Position_History_Report_Unit", unit, ".csv")
+  unitdat = read.csv(filestr, header=T, skip=7)
+  names(unitdat) = c("Time", "Location", "Status", "Latitude", "Longitude", "Speed", "Direction")
+  unitdat$UnitID = as.factor(unit)
+  
+  ## drop last two rows of report since these are blank
+  rownum = nrow(unitdat)
+  unitdat = unitdat[-c(rownum-1,rownum)]
+  
+  ## return unitdat
+  unitdat
+}
+
+## combine all the unit data into one data frame
+createvehdf = function(vec) {
+  vehdat = readvehdat(vec[1])
+  for(i in vec[-1]){
+    vehdat = rbind(vehdat, readvehdat(i))
+  }
+  vehdat
+}
+# vehpos = read.csv("../../scriHgacGrantTruckMap/data/veh_pos.csv", header=T, skip=9)
+vehpos = createvehdf(vehnum)
 
 ## create Unit plot
-ppoints = c(geom_point(data=vehpos, aes(x=Longitude, y=Latitude), colour="yellow", size=2, alpha=0.4))
-
+ppoints = c(geom_point(data=vehpos, aes(x=Longitude, y=Latitude, colour=UnitID), alpha=0.4))
 
 p = ggplot() +
   geom_polygon(data=plotData, aes(x=long, y=lat, group=group, fill=fillval), color="black", size=0.25) +
@@ -57,6 +81,9 @@ p = ggplot() +
   theme_nothing(legend=TRUE) +
   labs(title="HGAC Grant Truck Operating Activity", fill="") +
   theme(plot.title = element_text(size = rel(2))) +
-  ppoints + 
+  ppoints +
   scale_fill_distiller(palette="Greens")
 p
+
+## are vehicles in county area?
+proj4string(vehpos) = proj4string(plotData)
